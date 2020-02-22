@@ -1,3 +1,6 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+A funnel for my evening thoughts. I'm a DC reverse-commuter by train, working in Suburbia. I know what it's like to drive in the DMV, hope to make the alternative a compelling option. Warning, may be wearing Alabama-shaped, rose-tinted glasses.
+
+Alex Shell
+Twitter: alextshell
